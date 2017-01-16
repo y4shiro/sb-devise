@@ -6,9 +6,9 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-- 2.3.3
+  - 2.3.3
 * System dependencies
-- rails 5.0.1
+  - rails 5.0.1
 * Configuration
 
 * Database creation
